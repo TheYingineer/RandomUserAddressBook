@@ -1,0 +1,23 @@
+.addressBook {
+  display: flex;
+  flex-direction: column;
+  /* border: 5px solid green;  */
+  justify-content: center;
+  align-items: center;
+  background-color: pink;
+}
+
+.info{
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  font-weight: bolder;
+}
+
+button{
+  background-color: beige;
+  color:blue;
+  font-weight: bolder;
+
+}
